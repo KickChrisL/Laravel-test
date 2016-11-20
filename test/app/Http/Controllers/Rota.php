@@ -64,6 +64,9 @@ class Rota extends Controller
             // Add the temp member array to the staff return array and convert it to an object at the same time
             $staff[] = (object) $member;
         }
+
+
+
         // Return the arrays to the rota view
         return view('rota', ['rota' => $staff, 'hpd' => $hpd]);
     }

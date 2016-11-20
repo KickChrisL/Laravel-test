@@ -2,95 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="339f6ead-5aa3-4a56-a3d4-d91a2f2e5f94" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.phar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Laravel.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.env.example" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Console/Commands/Inspire.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Console/Kernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Events/Event.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Exceptions/Handler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Http/Controllers/Auth/AuthController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Http/Controllers/Auth/PasswordController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Http/Controllers/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Http/Controllers/Rota.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Http/Kernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Http/Middleware/Authenticate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Http/Middleware/EncryptCookies.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Http/Middleware/RedirectIfAuthenticated.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Http/Middleware/VerifyCsrfToken.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Http/Requests/Request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Http/routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Jobs/Job.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Listeners/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Policies/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Providers/AppServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Providers/AuthServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Providers/EventServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/Providers/RouteServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/app/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/artisan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/bootstrap/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/bootstrap/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/bootstrap/cache/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config/broadcasting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config/cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config/compile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config/filesystems.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config/queue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config/services.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/database/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/database/factories/ModelFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/database/migrations/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/database/migrations/2014_10_12_000000_create_users_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/database/seeds/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/database/seeds/DatabaseSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/public/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/public/web.config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/resources/assets/sass/app.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/resources/lang/en/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/resources/lang/en/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/resources/lang/en/passwords.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/resources/lang/en/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/resources/views/errors/503.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/resources/views/rota.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/resources/views/vendor/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/resources/views/welcome.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/storage/app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/storage/app/public/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/storage/framework/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/storage/framework/cache/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/storage/framework/sessions/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/storage/framework/views/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/storage/logs/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/tests/ExampleTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/tests/TestCase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/app/Http/Controllers/Rota.php" afterPath="$PROJECT_DIR$/test/app/Http/Controllers/Rota.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/resources/assets/sass/app.scss" afterPath="$PROJECT_DIR$/test/resources/assets/sass/app.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/resources/views/rota.blade.php" afterPath="$PROJECT_DIR$/test/resources/views/rota.blade.php" />
     </list>
     <ignored path="Laravel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,8 +34,8 @@
       <file leaf-file-name="Rota.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/app/Http/Controllers/Rota.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+            <state relative-caret-position="501">
+              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding>
                 <element signature="e#122#156#0#PHP" expanded="true" />
               </folding>
@@ -128,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".env" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -180,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rota.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="rota.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/resources/views/rota.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+            <state relative-caret-position="340">
+              <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/resources/assets/sass/app.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -205,8 +130,9 @@
         <option value="$PROJECT_DIR$/test/public/.htaccess" />
         <option value="$PROJECT_DIR$/test/.env" />
         <option value="$PROJECT_DIR$/test/config/database.php" />
-        <option value="$PROJECT_DIR$/test/resources/views/rota.blade.php" />
         <option value="$PROJECT_DIR$/test/app/Http/Controllers/Rota.php" />
+        <option value="$PROJECT_DIR$/test/resources/assets/sass/app.scss" />
+        <option value="$PROJECT_DIR$/test/resources/views/rota.blade.php" />
       </list>
     </option>
   </component>
@@ -284,6 +210,50 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -341,35 +311,43 @@
       <option name="presentableId" value="Default" />
       <updated>1479637149624</updated>
       <workItem from="1479637150767" duration="196000" />
-      <workItem from="1479637375267" duration="15732000" />
+      <workItem from="1479637375267" duration="19721000" />
     </task>
+    <task id="LOCAL-00001" summary="Inital Commit">
+      <created>1479653137289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479653137289</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15928000" />
+    <option name="totallyTimeSpent" value="19917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3483387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3483387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -402,6 +380,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inital Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inital Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -570,28 +552,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/resources/views/rota.blade.php">
+    <entry file="file://$PROJECT_DIR$/test/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        <state relative-caret-position="408">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/app/Http/Controllers/Rota.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        <state relative-caret-position="501">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding>
             <element signature="e#122#156#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/.env">
+    <entry file="file://$PROJECT_DIR$/test/resources/assets/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/resources/views/rota.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
           <folding />
         </state>
       </provider>
